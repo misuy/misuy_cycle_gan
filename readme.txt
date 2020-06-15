@@ -1,0 +1,1 @@
+Я не загрузил веса и датасеты на гитхаб, т.к. они большого размера и гитхаб не позволяет, поэтому вот ссылка на гугл диск: https://drive.google.com/drive/folders/1rFfkO0cgb-eJa2wjVfjcvTEb0ER3V8Pd?usp=sharing
